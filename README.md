@@ -8,7 +8,7 @@
 
 💻 curious explorer of blockchain technologies
 
-My instegram : https://www.instagram.com/mohamedzack0p/
+
 
 
 ## 🌐 Socials:
