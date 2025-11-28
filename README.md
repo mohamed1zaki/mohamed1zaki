@@ -1,13 +1,6 @@
-## Hi, I'm Zaki ✨
+Hi there! 👋
 
-🧠 Computer science student at University of Algiers 1
-
-🚀 I love building responsive, interactive apps with modern frameworks
-
-🔗 Always learning and diving into the latest tech trends  
-
-💻 curious explorer of blockchain technologies
-
+I’m a Computer Science student at the University of Algiers 1, passionate about creating responsive and intuitive applications using modern frameworks. I enjoy exploring new technologies, keeping an eye on emerging trends, and experimenting with ideas that push my skills forward. I’m also particularly interested in blockchain ecosystems and how they can be applied to real-world problems.
 
 
 
